@@ -4,3 +4,5 @@ git init
 rm -r .git
 git add contact.html
 git add .
+git commit -m "mensaje del commit"
+git log
