@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#imagen1 {
+    width: 800px;
+}
+
+.imagenImportante {
+    width: 600px;
+}
+
+img {
+    width: 200px;
+}
+
+h1 {
+    background-color: #AAA;
+    color: rgba(180, 180, 180, 0.5);
+}
