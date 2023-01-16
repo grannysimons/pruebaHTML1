@@ -6,3 +6,5 @@ git add contact.html
 git add .
 git commit -m "mensaje del commit"
 git log
+git branch      //lista de ramas
+git checkout master     //para cambiar de rama
