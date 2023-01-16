@@ -3,3 +3,4 @@ git status
 git init
 rm -r .git
 git add contact.html
+git add .
